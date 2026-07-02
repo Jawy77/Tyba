@@ -1,0 +1,12 @@
+# Ignorar todo excepto los archivos de la tarea
+*
+!README.md
+!Respuesta_Tecnica_Cybersecurity_Specialist.md
+!threat_model_stride_quick_transfer.md
+!diagrama_zero_trust.py
+!diagrama_zero_trust_aws.py
+!fincloud_zero_trust.drawio
+!fincloud_zero_trust_aws_icons.drawio
+!fincloud_zero_trust_architecture.png
+!fincloud_zero_trust_aws_official.png
+!.gitignore
